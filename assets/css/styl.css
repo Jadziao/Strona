@@ -1,0 +1,400 @@
+html, body, ul, li { margin: 0; padding: 0; }
+h1, h2, h3, h4, ul, li, ol, p { margin:0; padding:0; font-size: 1em;
+    line-height: 1.6em; }
+    body { background: #ffffff;
+        font: 0.625em/1.5em arial, tahoma, verdana, sans-serif; }
+
+.wallpaper{
+    width:100%;
+    height: 550px;
+    position: absolute;bottom: 0px; z-index: 1;
+    margin-left:0px;
+    margin-top: 0px;
+    background-size: cover;
+    margin-bottom: 430px;
+
+    }
+section { background-image: url(https://preview.redd.it/g3xmssaudmv41.png?width=3840&format=png&auto=webp&s=51f25a5272a6a5693a35858a45910ae3b2325894);
+     width:100%;
+     height: 1000px;
+    float: center;
+    position: relative;bottom: 300px; z-index: 1;
+
+
+ }
+section { background-size: cover 
+}
+
+header{background-size: cover}
+header{width:100%;
+    height: 550px;
+    
+}
+h1{
+    color: white;
+    font-size: 60px ;
+    text-align: center;
+    margin-top: 150px;
+    text-shadow: 3px 3px 0px  black;
+    margin-bottom: 100px;
+    position: relative; z-index: 3;
+
+}
+.boosting{
+    color:white;
+    font-size: 30px ;
+    text-align: left;
+    margin: 15px;
+    padding: 15px;
+    position: relative; z-index: 3;
+
+}
+.weboost{
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    margin-top:-90px;
+    margin-bottom: 0px;
+    text-shadow: 2px 2px 0px  black;
+    position: relative; z-index: 3;
+    
+}
+footer { background-image: url(https://ocdn.eu/pulscms-transforms/1/jlXktkpTURBXy8xYWYyMzUyNDM1YmI1YzI2ZmNhMTA3NjdhNTBjMjMzYy5wbmeSlQLNA8AAwsOVAgDNA8DCww);
+    width:100%; height: 500px; 
+    position: relative;bottom: 320px;
+
+}
+    
+#layout {background-image: url(https://4lovesklepslubny.pl/public/assets//kolor-czarny%20%C5%9Blub%20wesele.jpg);
+    width:100%; height: 90px;
+    opacity: 60%;
+    margin: 0px;
+    position: relative; top:144px ;z-index: 1;
+}
+
+.rankboost {color:white;
+    font-size: 18px ;
+    position: absolute;z-index: 2; 
+    margin-left: 440px;
+    margin-top: 170px;
+    font-weight: normal;
+    float: left;
+cursor: pointer;
+width: 165px;
+padding: 10px 15px;
+background-color: #01a5d9;
+color: white;
+text-transform: uppercase;
+font-weight: bold;
+text-align: center;
+text-decoration: none;
+border: 1px solid #01a5d9;
+-moz-border-radius: 7px;
+-webkit-border-radius: 7px;
+border-radius: 7px;
+
+
+
+-moz-box-shadow: inset 0 0 3px rgba(255, 255, 255, 0.6), 
+inset 0 1px 2px rgba(255, 255, 255, 0.7), 
+0 5px 0 #50b0e2, 0 6px 0 #2f7ea7, 0 10px 2px #ccc;
+
+    
+}
+.placement{color:white;
+    font-size: 18px ;
+    position: absolute;z-index: 2; 
+    margin-left: 700px;
+    margin-top: 180px;
+    font-weight: normal;
+}
+.solo{color:white;
+    font-size: 18px ;
+    position: absolute;z-index: 2; 
+    margin-left: 940px;
+    margin-top: 180px;
+    font-weight: normal;
+}
+.coaching{color:white;
+    font-size: 18px ;
+    font-weight: normal;
+    position: absolute;z-index: 2; 
+    margin-left: 1200px;
+    margin-top: 180px;
+}
+aside {background: rgb(2,24,56);
+    background: -moz-linear-gradient(180deg, rgba(2,24,56,1) 0%, rgba(21,26,34,1) 60%);
+    background: -webkit-linear-gradient(180deg, rgba(2,24,56,1) 0%, rgba(21,26,34,1) 60%);
+    background: linear-gradient(180deg, rgba(2,24,56,1) 0%, rgba(21,26,34,1) 60%);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#021838",endColorstr="#151a22",GradientType=1);
+       position: absolute; z-index: 2;
+       width: 100%;
+       height: 1020px;
+       opacity: 99%;
+}
+ol { background-image: url('tlo.png');
+    
+    height: 300px;
+    width: 100%;
+    position: relative;bottom:-700px; z-index: auto;
+    opacity: 60%;
+}
+body{
+    height: 1500px;
+    width: 100%;
+}
+.ikonacart{color: white;
+    font-size: 30px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left: 320px;
+    margin-top:-1080px;
+
+}
+.selectrank{color: white;
+    font-size: 30px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left: 370px;
+    margin-top:-1070px;
+}
+.linedown {
+    border-left: 1px dashed white;
+    height: 400px;
+    position: absolute; z-index: 3;
+    left: 340px;
+    margin-left: -3px;
+    top: 820px;
+  }
+.ikonauser{color: white;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left: 318px;
+    margin-top:-640px;
+    font-size: 40px;
+
+}
+.selectchamp{color: white;
+    font-size: 30px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:370px;
+    margin-top:-625px;
+}
+.silver{background-image: url('silver.png');
+        margin-left:-200px ;
+        position: absolute;top:550px ;z-index: 3;
+        background-size: cover;
+    
+}
+.st{
+    width:10%; height: 500px;
+    margin-left:600px ;
+    position: absolute;top:700px ;z-index: 3;
+    background-size: 200px;
+}
+.gold{background-image: url('gold.png');
+    margin-left:-75px ;
+    position: absolute;top:548px ;z-index: 3;
+    background-size: cover;
+}
+.jeden{background-image: url('1.png');
+    width:75px; height: 75px;
+    margin-left:370px ;
+    position: absolute;top:1300px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+    }
+.jeden:active{
+    border: 3px solid #1b63eb;
+    
+}  
+.dwa{
+    width:75px; height: 75px;
+    margin-left:500px ;
+    position: absolute;top:1300px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+    }
+.dwa:active{border: 3px solid #1b63eb;}
+.trzy{
+    width:75px; height: 75px;
+    margin-left:370px ;
+    position: absolute;top:1400px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.trzy:active{border: 3px solid #1b63eb;}
+.cztery{
+    width:75px; height: 75px;
+    margin-left:500px ;
+    position: absolute;top:1400px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.cztery:active{border: 3px solid #1b63eb;}
+.pie{
+    width:75px; height: 75px;
+    margin-left:630px ;
+    position: absolute;top:1300px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.pie:active{border: 3px solid #1b63eb;}
+.sze{background-image: url('6.png');
+    width:75px; height: 75px;
+    margin-left:630px ;
+    position: absolute;top:1400px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.sze:active{border: 3px solid #1b63eb;}
+.sie{background-image: url('7.png');
+    width:75px; height: 75px;
+    margin-left:760px ;
+    position: absolute;top:1400px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.sie:active{border: 3px solid #1b63eb;}
+.osi{background-image: url('8.png');
+   width:75px; height: 75px;
+    margin-left:760px ;
+    position: absolute;top:1300px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.osi:active{border: 3px solid #1b63eb;}
+.dzi{background-image: url('9.png');
+    width:75px; height: 75px;
+    margin-left:890px ;
+    position: absolute;top:1300px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.dzi:active{border: 3px solid #1b63eb;}
+.dzie{background-image: url('10.png');
+    width:75px; height: 75px;
+    margin-left:890px ;
+    position: absolute;top:1400px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.dzie:active{border: 3px solid #1b63eb;}
+.jede{background-image: url('11.png');
+    width:75px; height: 75px;
+    margin-left:1020px ;
+    position: absolute;top:1300px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.jede:active{border: 3px solid #1b63eb;}
+.dwan{background-image: url('12.png');
+    width:75px; height: 75px;
+    margin-left:1020px ;
+    position: absolute;top:1400px ;z-index: 3;
+    background-size: 75px;
+    border:1px solid rgb(163, 163, 163);
+    cursor: pointer;
+}
+.dwan:active{border: 3px solid #1b63eb;}
+h2{color: white;
+    font-size: 22px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:260px;
+    margin-top:95px;
+}
+h3{color: white;
+    font-size: 22px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:260px;
+    margin-top:270px;
+}
+h4{color: white;
+    font-size: 22px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:1140px;
+    margin-top:95px;
+}
+h5{color: white;
+    font-size: 22px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:1140px;
+    margin-top:265px;
+}
+
+.ikona1{font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:230px;
+    margin-top:94px;
+    color: white;
+
+}
+.ikona2{font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:230px;
+    margin-top:269px;
+    color: white;
+
+}
+.ikona3{font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:1110px;
+    margin-top:94px;
+    color: white;
+
+}
+.ikona4{font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:1110px;
+    margin-top:264px;
+    color: white;
+
+}
+.tekst1{color: white;
+    font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:260px;
+    margin-top:130px;
+}
+.tekst2{color: white;
+    font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:260px;
+    margin-top:305px;
+}
+.tekst3{color: white;
+    font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:1140px;
+    margin-top:130px;
+}
+.tekst4{color: white;
+    font-size: 16px;
+    position: absolute; z-index: 3;
+    height: 100px;
+    margin-left:1140px;
+    margin-top:300px;
+}
